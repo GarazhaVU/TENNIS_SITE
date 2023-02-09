@@ -187,3 +187,38 @@ div.bod{
     height: 2978px;
     width: 1920px;
 }
+
+
+div.zali{
+    position: relative;
+    top: 150px;
+    left: 312px;
+    height: 500px;
+    width: 1330px;
+}
+
+div.zal{
+    display: inline-block;
+    width: 416px;
+    height: 500px;
+    border: 1px solid #F7ECE1;
+    margin-right: 24px;
+}
+
+div.zal img{
+    position: relative;
+    top: 25px;
+    left: 20px;
+}
+
+div.textzal{
+    position: absolute;
+    top: 359px;
+    width: 416px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 140%;
+    text-align: center;
+    color: white;
+}
